@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#SparkConfigurator.py
+#deleteUserExample.py
 
 __author__ = "Mike Bond"
 
