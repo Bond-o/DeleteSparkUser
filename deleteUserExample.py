@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+#SparkConfigurator.py
+
+__author__ = "Mike Bond"
+
 '''
     This is an example of using the Requests
     library to delete a user from Cisco Spark
